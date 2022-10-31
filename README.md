@@ -12,3 +12,5 @@ Right now if you spell rock, paper, or scissors wrong you auto lose the hand.
 I will figure out best way to implement a validity check on input answer and possibly try and rewrite this in OOP.
 
 The game places you against the PC in a best of 3 rock, paper, scissors game. 
+
+edit: i came up with a funny way to handle if the player inputs something other than rock, paper, scissors. couldn't figure out how to make it just ask the question again until you get  a valid response but i think this fix is funny and i was able to come up with how to do this now so i did. also i am much happier with how it checks for winners. 
